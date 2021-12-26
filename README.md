@@ -77,6 +77,7 @@ add other awesome Kurds, including you!
 - [Edris Muhammed](https://twitter.com/Edris__Muhammed)
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
 - [Samal Samaly](https://twitter.com/Samalsamaly)
+- [Tareq Ziad](https://twitter.com/tareqziadr)
 
 ## Data Science and AI
 
