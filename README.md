@@ -155,6 +155,7 @@ add other awesome Kurds, including you!
 - [Muhamad Tariq](https://twitter.com/muhamadtariq01)
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
 - [Samal Samaly](https://twitter.com/Samalsamaly)
+- [Tareq Ziad](https://github.com/tareqziadr): MikroTik, Cisco, Windows Server, Exchange Server, Vmware, Microsoft Azure
 
 ## Data Science and AI
 
